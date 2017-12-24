@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-	<meta charset="UTF-8">
-	<title>Slotify</title>
+	<title>Welcome to Slotify!</title>
 </head>
+
 <body>
 	Hello!
 </body>
+
 </html>
