@@ -1,5 +1,6 @@
 <?php 
 	ob_start();
+	session_start();
 
 	$timezon = date_default_timezone_set("Europe/Minsk");
 
